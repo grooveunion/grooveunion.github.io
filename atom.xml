@@ -4,7 +4,7 @@
   <title><![CDATA[GrooveUnion]]></title>
   <link href="http://grooveunion.github.io/atom.xml" rel="self"/>
   <link href="http://grooveunion.github.io/"/>
-  <updated>2014-04-28T21:33:17-04:00</updated>
+  <updated>2014-04-28T23:24:54-04:00</updated>
   <id>http://grooveunion.github.io/</id>
   <author>
     <name><![CDATA[GrooveUnion]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Summercamp]]></title>
+    <link href="http://grooveunion.github.io/blog/2014/04/28/summercamp/"/>
+    <updated>2014-04-28T21:49:12-04:00</updated>
+    <id>http://grooveunion.github.io/blog/2014/04/28/summercamp</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
