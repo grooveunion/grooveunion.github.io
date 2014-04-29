@@ -4,7 +4,7 @@
   <title><![CDATA[GrooveUnion]]></title>
   <link href="http://grooveunion.github.io/atom.xml" rel="self"/>
   <link href="http://grooveunion.github.io/"/>
-  <updated>2014-04-28T23:45:16-04:00</updated>
+  <updated>2014-04-29T03:18:10-04:00</updated>
   <id>http://grooveunion.github.io/</id>
   <author>
     <name><![CDATA[GrooveUnion]]></name>
@@ -14,11 +14,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Beck's new album]]></title>
+    <link href="http://grooveunion.github.io/blog/2014/04/29/becks-new-album/"/>
+    <updated>2014-04-29T03:17:44-04:00</updated>
+    <id>http://grooveunion.github.io/blog/2014/04/29/becks-new-album</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Summercamp]]></title>
     <link href="http://grooveunion.github.io/blog/2014/04/28/summercamp/"/>
     <updated>2014-04-28T21:49:12-04:00</updated>
     <id>http://grooveunion.github.io/blog/2014/04/28/summercamp</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img class="right" src="http://jasonkaczorowski.net/wp-content/uploads/2011/05/SummerCampMusicFestival.jpg" width="250" height="225" title="aerial scamp #1" ></p>
+
+<!--more-->
+
+
+<p>I love Summercamp</p>
 ]]></content>
   </entry>
   
