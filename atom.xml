@@ -4,7 +4,7 @@
   <title><![CDATA[GrooveUnion]]></title>
   <link href="http://grooveunion.github.io/atom.xml" rel="self"/>
   <link href="http://grooveunion.github.io/"/>
-  <updated>2014-04-29T16:09:41-04:00</updated>
+  <updated>2014-04-29T16:13:23-04:00</updated>
   <id>http://grooveunion.github.io/</id>
   <author>
     <name><![CDATA[GrooveUnion]]></name>
@@ -18,7 +18,7 @@
     <link href="http://grooveunion.github.io/blog/2014/04/29/trey-pistachio-and-the-phish/"/>
     <updated>2014-04-29T16:03:18-04:00</updated>
     <id>http://grooveunion.github.io/blog/2014/04/29/trey-pistachio-and-the-phish</id>
-    <content type="html"><![CDATA[<p><img class="right" src="url("/images/PhishPhotoStory.jpg70" title="KB&#34;) 250 225 aerial Phish Satire #1" alt="KB&#34;) 250 225 aerial Phish Satire #1"></p>
+    <content type="html"><![CDATA[<p><img class="right" src="url("/images/PhishPhotoStory.jpg.")" width="250" height="225" title="aerial Phish Satire #1" ></p>
 
 <!--more-->
 
