@@ -2,11 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://grooveunion.github.io/blog/2014/04/28/summercamp/</loc>
-        <lastmod>2014-04-29T16:21:32-04:00</lastmod>
+        <lastmod>2014-04-30T00:12:58-04:00</lastmod>
     </url>
     <url>
         <loc>http://grooveunion.github.io/blog/2014/04/29/becks-new-album/</loc>
-        <lastmod>2014-04-29T06:12:50-04:00</lastmod>
+        <lastmod>2014-04-29T19:29:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://grooveunion.github.io/blog/2014/04/29/trey-pistachio-and-the-phish/</loc>
@@ -18,10 +18,14 @@
     </url>
     <url>
         <loc>http://grooveunion.github.io/blog/archives/</loc>
-        <lastmod>2014-04-29T16:21:55-04:00</lastmod>
+        <lastmod>2014-04-30T00:12:58-04:00</lastmod>
     </url>
     <url>
         <loc>http://grooveunion.github.io/</loc>
-        <lastmod>2014-04-29T16:21:55-04:00</lastmod>
+        <lastmod>2014-04-30T00:12:58-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://grooveunion.github.io/merch/</loc>
+        <lastmod>2014-04-29T22:29:33-04:00</lastmod>
     </url>
 </urlset>
