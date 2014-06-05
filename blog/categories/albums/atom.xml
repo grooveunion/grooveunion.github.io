@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Albums | GrooveUnion]]></title>
   <link href="http://grooveunion.github.io/blog/categories/albums/atom.xml" rel="self"/>
   <link href="http://grooveunion.github.io/"/>
-  <updated>2014-06-04T20:53:24-04:00</updated>
+  <updated>2014-06-04T21:24:27-04:00</updated>
   <id>http://grooveunion.github.io/</id>
   <author>
     <name><![CDATA[GrooveUnion]]></name>
@@ -34,7 +34,27 @@
     <link href="http://grooveunion.github.io/blog/2014/05/15/newfoofighteralbum/"/>
     <updated>2014-05-15T16:29:49-04:00</updated>
     <id>http://grooveunion.github.io/blog/2014/05/15/newfoofighteralbum</id>
-    <content type="html"><![CDATA[<p><img class="right <a" src="href="http://www.nme.com/images/gallery/FooFightersDC060511.jpg">http://www.nme.com/images/gallery/FooFightersDC060511.jpg</a>" width="250" height="225" title="foo" ></p>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/foo.jpg" width="200" height="225" title="bottle smash" ></p>
+
+<!--more-->
+
+
+
+
+<div style="text-align:center" markdown="1">
+<a href="http://commons.wikimedia.org/wiki/Foo_Fighters#mediaviewer/File:Foo_Fighters_Live_29.jpg">Photo</a> by Jo/ <a href="http://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>
+</div>
+
+
+
+
+<br/ >
+
+
+<br/ >
+
+
+
 
 <!--more-->
 
@@ -54,7 +74,7 @@
     <link href="http://grooveunion.github.io/blog/2014/05/15/sayitisntso/"/>
     <updated>2014-05-15T11:16:23-04:00</updated>
     <id>http://grooveunion.github.io/blog/2014/05/15/sayitisntso</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/image001.jpg" width="145" height="100" title="Miley and Wayne" ></p>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/mileywayne.jpg" width="145" height="100" title="Miley and Wayne" ></p>
 
 <!--more-->
 
