@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Song of the Day"
+author: GroovePrez
+date: 2014-05-02 13:58:23 -0400
+comments: true
+categories: SongoftheDay
+---
+{% img right /images/songdayimage.jpg 205 225 songoftheday #1 %}
+
+<!--more-->
+
+->{% youtube NHG_aR63RZs %}<-
+
+
+We're going to keep up with the vast array of genres and go with an old classic today.  
+
+
+Song: Moma Dance-Phish

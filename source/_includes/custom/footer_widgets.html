@@ -1,6 +1,6 @@
 <div class="row">
-  <div class="span3">
-    <h2>recent posts</h2>
+  <div class="span4">
+    <h2>Recent Posts</h2>
     <ul class="recent_posts">
       {% for post in site.posts limit: site.recent_posts %}
         <li>
@@ -8,8 +8,10 @@
         </li>
       {% endfor %}
     </ul>
-    <h2><a href="/blog/archives">archives</a></h2>
-  </div>
+    </div>
+    <div class="span3">
+        <h2><a class="about" href="/blog/archives">Archives</a></h2>
+    </div>
   <div class="span3">
     {% include custom/asides/instagram.html %}
   </div>
@@ -19,4 +21,10 @@
   <div class="span2">
     {% include custom/asides/found_on.html %}
   </div>
-</div>
+  <div class="span4">
+      <h2>Categories</h2>
+      <ul id="categories">
+          {% category_list %}
+ 
+      </ul>
+  </div></div>

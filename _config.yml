@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://grooveunion.github.io
+url: http://www.grooveunion.com
 title: GrooveUnion
 subtitle: Unite in the groove
 author: GrooveUnion
@@ -41,7 +41,7 @@ rdiscount:
     - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 27          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -57,6 +57,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # blog_index_asides:
 # post_asides:
 # page_asides:
+
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -90,11 +91,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: grooveunion
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-50568628-1
 
 # Facebook Like
 facebook_like: false
